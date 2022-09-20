@@ -49,6 +49,14 @@ public class Ex03_for응용 {
 			System.out.println();
 			}
 		
+		/* 지선 씨 풀이
+		 * for (int i = 0; i < 26; i++) {
+			for (char ch = 'Z'; ch>='Z'-i; ch--) {
+				System.out.print(ch);
+			}
+			System.out.println();
+			}*/
+		
 		// [문제 5]
 		System.out.println("=====문제 5=====");
 		for (int i = 0; i < 26; i++) {
